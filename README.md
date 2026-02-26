@@ -4,7 +4,13 @@
 
 ---
 <p align="center">
-🖼️ Quadro: Método Kanban
+  <span style="font-size:24px; font-weight:bold;">
+    🖼️ Quadro: Método Kanban
+  </span>
+  <br>
+  <span style="color:gray;">
+    Organização visual de tarefas e fluxo de desenvolvimento
+  </span>
 </p>
 <p align="center">
   <img src="image/trello.png" width="600">
