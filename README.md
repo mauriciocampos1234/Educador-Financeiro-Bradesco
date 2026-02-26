@@ -1,4 +1,4 @@
-<p color="red"  align="center" width="400"> Educador Financeiro com IA - Projeto do BootCamp DIO-BRADESCO</p>
+<p align="center" width="600"> Educador Financeiro com IA - Projeto do BootCamp DIO-BRADESCO</p>
 
 ---
 <p align="center">
