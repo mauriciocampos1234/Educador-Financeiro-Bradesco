@@ -1,7 +1,5 @@
 <p align="center">
-  <span style="color:red;">
-    <b>Educador Financeiro com IA - Projeto do BootCamp DIO-BRADESCO</b>
-  </span>
+  <img src="https://img.shields.io/badge/Educador_Financeiro_com_IA-DIO_BRADESCO-red?style=for-the-badge">
 </p>
 
 ---
