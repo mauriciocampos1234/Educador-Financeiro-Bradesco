@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-🖼️ Exibindo a Imagem do Projeto
+🖼️ Quadro: Método Kanban
 </p>
 <p align="center">
   <img src="image/trello.png" width="600">
