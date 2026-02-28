@@ -33,4 +33,4 @@
 
 ***Pitch***
 
-[![Demo do Projeto](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=jsTpHkXevzY)
+[![Demo do Projeto](https://www.youtube.com/watch?v=jsTpHkXevzY)
