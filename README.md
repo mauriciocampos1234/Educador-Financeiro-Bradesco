@@ -31,6 +31,7 @@
 
 ---
 
-***Pitch***
+<p align="center***Pitch***
 
-[![Demo do Projeto](https://www.youtube.com/watch?v=jsTpHkXevzY)
+[![Assista no YouTube](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=jsTpHkXevzY)
+</P
