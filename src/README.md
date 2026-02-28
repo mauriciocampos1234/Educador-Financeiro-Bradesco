@@ -30,7 +30,3 @@ python -m streamlit run .\src\app.py
 # (Se o comando `streamlit` estiver disponível no seu PATH, isso também funciona)
 # streamlit run .\src\app.py
 ```
-
-## Evidência de Execução
-
-<img width="1920" height="1107" alt="image" src="https://github.com/user-attachments/assets/60feed79-38a6-43dc-b23a-9dd007e34c1d" />
