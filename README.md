@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 PITCH DO PROJETO
+<p align="center">🚀 PITCH DO PROJETO</p>
 
 <p align="center">
   <strong style="font-size:22px;">
