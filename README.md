@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<p align="center">## Evidência de Execução</p>
+<p align="center">Evidência de Execução</p>
 <p align="center">
   <img src="image/MIA2.png" width="600">
 </p>
