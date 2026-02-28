@@ -31,10 +31,26 @@
 
 ---
 
-## 🎥 PITCH
+## 🚀 PITCH DO PROJETO
+
+<p align="center">
+  <strong style="font-size:22px;">
+    Demonstração oficial da solução em funcionamento
+  </strong>
+</p>
+
+<br>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=jsTpHkXevzY">
-    <img src="https://img.youtube.com/vi/jsTpHkXevzY/0.jpg" width="600">
+    <img src="https://img.youtube.com/vi/jsTpHkXevzY/maxresdefault.jpg" width="750">
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=jsTpHkXevzY">
+    <img src="https://img.shields.io/badge/▶_Assistir_no_YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
