@@ -31,7 +31,10 @@
 
 ---
 
-<p align="center***Pitch***
+## 🎥 PITCH
 
-[![Assista no YouTube](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=jsTpHkXevzY)
-</P
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=jsTpHkXevzY">
+    <img src="https://img.youtube.com/vi/jsTpHkXevzY/0.jpg" width="600">
+  </a>
+</p>
